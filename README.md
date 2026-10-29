@@ -64,5 +64,109 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Breakr is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://www.nasdaqprivatemarket.com/
+Breakr provides an operating system for creator ecosystems, offering tools for campaign management, creator discovery, CRM, payments, escrow, analytics, and AI assistance. The platform enables brands, agencies, and creators to run campaigns, manage finances, and automate workflows, with a focus on secure escrow‑protected payments and AI‑driven insights. It aims to streamline the creator economy by integrating product, payment, and relationship layers into a single ledger.
+
+**Areas:** Company · CreatorEconomy · Fintech · Software-as-a-Service · Payments
+
+## Breakr on APIs.io
+
+Everything profiled for Breakr is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/breakr/](https://apis.io/providers/breakr/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Breakr API](https://apis.io/apis/breakr/breakr-api/) — BREAKr API providing creator ecosystem payment and management endpoints.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Breakr Agentic Access](https://apis.io/agentic-access/breakr/breakr-agentic-access/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Breakr Openapi Overlay](https://apis.io/overlays/breakr/breakr-openapi-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Breakr API Rules](https://apis.io/rules/breakr/breakr-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Breakr Authentication](https://apis.io/security/breakr/breakr-authentication/)
+- [Breakr Domain Security](https://apis.io/security/breakr/breakr-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.breakr.app)
+- [Documentation](https://www.breakr.app/for/creators)
+- [Getting started](https://www.breakr.app/for/creators)
+- [Sign up](https://m.breakr.app/register)
+- [Support](https://www.breakr.app/contact)
+- [Terms of service](https://www.breakr.app/terms-of-service)
+- [Privacy policy](https://www.breakr.app/privacy-policy)
+- [GitHub](https://github.com/breakr)
+
+## API Evangelist rating
+
+**Kin Score 24.4** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 0.0 |
+| Contract governance | 18.2 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 38.1 |
+| Access clarity | 34.2 |
+
+**Agent readiness 4.3** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | derived (partial credit) |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 22.3** — Payments
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/breakr/](https://apis.io/providers/breakr/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Breakr: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/breakr/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
